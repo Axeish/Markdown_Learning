@@ -62,3 +62,45 @@ Example
 
         (this document is an example )
 
+### List
+
+- To create ordered list add numbers followed by period and space
+- To create unordered list use - , * , or + followed by space
+- Indent one or more item to create nested list 
+- To add another element to the list use four space or a tab
+
+>###### best practice
+> - Use \ as escape if number followed by period is needed to be used
+> - Use same delimiter in a list
+
+Example
+
+        1. open
+        2. close
+
+        - abc
+        - def
+            - ghi
+            > blockquotes
+
+### Code
+    
+- to denote a word as code enclose it in backtick (`)
+
+Example:
+
+        ``Use `code` in a line``
+
+### Horizontal Rule
+
+- use three or more ***, ___, or --- on a line by themselves
+---
+
+### Links
+- to add links use square bracket followed by parenthesis 
+- \[ url name ]( url link )
+- \[ url name ]( url link "title" )
+- to enclose link or email to link , enclose it in angle bracket
+
+
+
